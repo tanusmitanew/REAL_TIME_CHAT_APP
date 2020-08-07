@@ -1,0 +1,9 @@
+npm init
+
+npm install socket.io
+npm install --save-dev nodemon
+
+npm run devStart
+
+Open 2 live servers..
+and communicate between 2 servers
